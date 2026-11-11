@@ -70,7 +70,7 @@ project models:
 ## Project structure
 
 ```text
-tesla-wip-inventory-reconciliation/
+wip-inventory-reconciliation/
 ├── reconcile.py            # CLI: --build, --reconcile, --report
 ├── schema.sql              # Database schema (5 tables + indexes)
 ├── queries.sql             # 10 analysis queries for inventory.db
