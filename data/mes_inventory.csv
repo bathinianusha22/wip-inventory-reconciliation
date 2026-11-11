@@ -1,0 +1,601 @@
+record_id,part_number,description,category,location,mes_qty,unit_cost,annual_usage_qty,last_movement_date
+1,NCM-ANO-1001,"Synthetic graphite anode powder, 20 kg bag",Anode Active Material,WH-02 WIP Stores,0,14.01,5108,2026-11-01
+2,NCM-PKG-1002,"Corrugated shipper, double-wall",Packaging,Pack & Ship,599,3.53,20414,2026-09-28
+3,NCM-BND-1003,"NMP solvent, 200 L drum",Binder & Solvent,Formation & Test,415,12.99,2362,2026-10-15
+4,NCM-CAT-1004,"NCM 622 cathode powder, 25 kg drum",Cathode Active Material,WH-03 Finished Goods,752,28.26,1572,2026-08-12
+5,NCM-TST-1005,"Reference cell, formation QC",Test & Measurement,Pack & Ship,269,18.9,1919,2026-10-19
+6,NCM-CAT-1006,"NCM 622 cathode powder, 25 kg drum",Cathode Active Material,Pack & Ship,172,29.34,7404,2026-08-13
+7,NCM-ELY-1007,"Electrolyte additive, 25 L carboy",Electrolyte,WH-03 Finished Goods,80,46.43,1771,2026-10-20
+8,NCM-HDW-1008,Cell cap assembly with vent,Cell Hardware,Formation & Test,3940,0.92,188300,2026-09-20
+9,NCM-PKG-1009,"ESD-safe cell tray, 100-cell",Packaging,Coating Line A,1630,3.95,26678,2026-08-06
+10,NCM-ELY-1010,"LiPF6 electrolyte, 200 L drum",Electrolyte,Cell Assembly,280,13.82,3781,2026-10-18
+11,NCM-PKG-1011,"ESD-safe cell tray, 100-cell",Packaging,Cell Assembly,3926,2.71,30831,2026-09-04
+12,NCM-ANO-1012,"Synthetic graphite anode powder, 20 kg bag",Anode Active Material,Pack & Ship,755,11.3,9479,2026-09-04
+13,NCM-BND-1013,"NMP solvent, 200 L drum",Binder & Solvent,Pack & Ship,286,14.03,4016,2026-10-06
+14,NCM-FOL-1014,"Copper foil 8 um, 300 mm roll",Current Collector,WH-03 Finished Goods,1288,5.17,11611,2026-11-04
+15,NCM-ELY-1015,"Electrolyte additive, 25 L carboy",Electrolyte,Pack & Ship,136,49.5,1161,2026-08-09
+16,NCM-FOL-1016,"Copper foil 8 um, 300 mm roll",Current Collector,Formation & Test,1231,4.83,5079,2026-11-09
+17,NCM-ANO-1017,"Natural graphite anode powder, 20 kg bag",Anode Active Material,WH-03 Finished Goods,531,6.91,4677,2026-08-19
+18,NCM-FOL-1018,"Copper foil 8 um, 300 mm roll",Current Collector,Cell Assembly,487,7.15,8737,2026-09-29
+19,NCM-CON-1019,"HEPA filter element, 610 x 610 mm",Consumables,Pack & Ship,86,49.62,927,2026-07-17
+20,NCM-PKG-1020,"Moisture-barrier bag, 500 x 700 mm",Packaging,WH-02 WIP Stores,3705,1.26,8974,2026-10-31
+21,NCM-HDW-1021,"2170 cell can, nickel-plated steel",Cell Hardware,WH-01 Raw Materials,4446,0.29,203122,2026-09-02
+22,NCM-CON-1022,"Nitrile glove, box of 100",Consumables,Coating Line A,1148,7.6,12074,2026-09-20
+23,NCM-BND-1023,"PVDF binder, 20 kg bag",Binder & Solvent,Coating Line A,267,24.2,2688,2026-09-22
+24,NCM-ANO-1024,"Natural graphite anode powder, 20 kg bag",Anode Active Material,WH-01 Raw Materials,157,9.53,7224,2026-10-22
+25,NCM-HDW-1025,Insulating gasket ring,Cell Hardware,Pack & Ship,17996,0.08,183904,2026-11-09
+26,NCM-HDW-1026,Cell cap assembly with vent,Cell Hardware,Pack & Ship,12611,0.42,58066,2026-09-14
+27,NCM-CON-1027,"Isopropyl alcohol 99%, 5 L",Consumables,Cell Assembly,352,9.79,4875,2026-10-10
+28,NCM-HDW-1028,"Nickel tab, 0.15 x 6 mm, reel",Cell Hardware,WH-02 WIP Stores,18117,0.05,188202,2026-08-04
+29,NCM-ANO-1029,"Natural graphite anode powder, 20 kg bag",Anode Active Material,Formation & Test,581,6.65,6128,2026-08-22
+30,NCM-BND-1030,"NMP solvent, 200 L drum",Binder & Solvent,WH-02 WIP Stores,369,15.92,1739,2026-10-29
+31,NCM-SEP-1031,"PE separator film, 500 m roll",Separator,Cell Assembly,166,0.52,10250,2026-09-28
+32,NCM-CON-1032,"Cleanroom wipe, lint-free, pack of 100",Consumables,WH-03 Finished Goods,668,6.76,14149,2026-10-07
+33,NCM-ELY-1033,"LiPF6 electrolyte, 200 L drum",Electrolyte,WH-03 Finished Goods,376,14.14,2493,2026-11-06
+34,NCM-TST-1034,"Reference cell, formation QC",Test & Measurement,Cell Assembly,269,18.48,2127,2026-07-27
+35,NCM-HDW-1035,"Nickel tab, 0.15 x 6 mm, reel",Cell Hardware,Pack & Ship,13321,0.2,174436,2026-08-23
+36,NCM-ANO-1036,"Synthetic graphite anode powder, 20 kg bag",Anode Active Material,WH-02 WIP Stores,837,9.84,555,2026-07-21
+37,NCM-ANO-1037,"Synthetic graphite anode powder, 20 kg bag",Anode Active Material,Coating Line A,925,9.07,8341,2026-10-21
+38,NCM-CON-1038,"Nitrile glove, box of 100",Consumables,Coating Line A,326,5.55,17966,2026-08-09
+39,NCM-HDW-1039,"Nickel tab, 0.15 x 6 mm, reel",Cell Hardware,Pack & Ship,6612,0.05,95396,2026-10-15
+40,NCM-PKG-1040,"ESD-safe cell tray, 100-cell",Packaging,WH-03 Finished Goods,697,2.87,55723,2026-08-19
+41,NCM-SEP-1041,"Ceramic-coated separator film, 500 m roll",Separator,WH-03 Finished Goods,1946,0.79,2511,2026-08-14
+42,NCM-ANO-1042,"Synthetic graphite anode powder, 20 kg bag",Anode Active Material,Pack & Ship,1025,10.78,10718,2026-10-06
+43,NCM-BND-1043,"NMP solvent, 200 L drum",Binder & Solvent,Formation & Test,479,11.58,4810,2026-07-23
+44,NCM-ANO-1044,"Synthetic graphite anode powder, 20 kg bag",Anode Active Material,WH-02 WIP Stores,206,10.93,568,2026-07-18
+45,NCM-CON-1045,"Isopropyl alcohol 99%, 5 L",Consumables,WH-02 WIP Stores,487,9.74,3861,2026-08-09
+46,NCM-CON-1046,"Cleanroom wipe, lint-free, pack of 100",Consumables,Pack & Ship,503,4.65,16951,2026-08-30
+47,NCM-BND-1047,"PVDF binder, 20 kg bag",Binder & Solvent,Formation & Test,177,31.73,3254,2026-09-21
+48,NCM-CON-1048,"Nitrile glove, box of 100",Consumables,Cell Assembly,703,5.24,5129,2026-10-14
+49,NCM-CON-1049,"Cleanroom wipe, lint-free, pack of 100",Consumables,WH-03 Finished Goods,255,2.33,10722,2026-09-01
+50,NCM-CON-1050,"Cleanroom wipe, lint-free, pack of 100",Consumables,Formation & Test,655,2.72,20179,2026-07-23
+51,NCM-ELY-1051,"LiPF6 electrolyte, 200 L drum",Electrolyte,WH-01 Raw Materials,78,13.5,2523,2026-11-09
+52,NCM-BND-1052,"PVDF binder, 20 kg bag",Binder & Solvent,Pack & Ship,279,32.23,2925,2026-10-04
+53,NCM-CON-1053,"HEPA filter element, 610 x 610 mm",Consumables,WH-02 WIP Stores,103,37.39,612,2026-10-21
+54,NCM-SEP-1054,"PE separator film, 500 m roll",Separator,WH-01 Raw Materials,1405,0.47,5727,2026-11-06
+55,NCM-HDW-1055,"Nickel tab, 0.15 x 6 mm, reel",Cell Hardware,WH-03 Finished Goods,4965,0.22,62303,2026-11-05
+56,NCM-ANO-1056,"Synthetic graphite anode powder, 20 kg bag",Anode Active Material,WH-02 WIP Stores,938,14.32,3018,2026-07-16
+57,NCM-PKG-1057,"Corrugated shipper, double-wall",Packaging,WH-01 Raw Materials,2606,5.01,29771,2026-10-26
+58,NCM-HDW-1058,"Nickel tab, 0.15 x 6 mm, reel",Cell Hardware,WH-03 Finished Goods,34446,0.14,394228,2026-09-26
+59,NCM-ELY-1059,"LiPF6 electrolyte, 200 L drum",Electrolyte,Coating Line A,73,18.21,910,2026-09-22
+60,NCM-FOL-1060,"Aluminium foil 15 um, 300 mm roll",Current Collector,Pack & Ship,581,4.64,6414,2026-09-27
+61,NCM-ELY-1061,"Electrolyte additive, 25 L carboy",Electrolyte,WH-02 WIP Stores,191,62.07,1894,2026-09-14
+62,NCM-HDW-1062,"Nickel tab, 0.15 x 6 mm, reel",Cell Hardware,WH-03 Finished Goods,34094,0.18,109154,2026-08-06
+63,NCM-BND-1063,"NMP solvent, 200 L drum",Binder & Solvent,Coating Line A,158,15.61,368,2026-10-18
+64,NCM-CON-1064,"Nitrile glove, box of 100",Consumables,WH-03 Finished Goods,233,7.07,11598,2026-10-31
+65,NCM-ANO-1065,"Synthetic graphite anode powder, 20 kg bag",Anode Active Material,Pack & Ship,1034,8.96,10580,2026-07-18
+66,NCM-BND-1066,"PVDF binder, 20 kg bag",Binder & Solvent,Pack & Ship,318,42.67,3271,2026-07-20
+67,NCM-BND-1067,"PVDF binder, 20 kg bag",Binder & Solvent,Coating Line A,56,38.02,712,2026-10-22
+68,NCM-HDW-1068,Insulating gasket ring,Cell Hardware,Pack & Ship,23833,0.07,439372,2026-08-11
+69,NCM-HDW-1069,Cell cap assembly with vent,Cell Hardware,Cell Assembly,9754,1.14,169629,2026-10-28
+70,NCM-HDW-1070,"2170 cell can, nickel-plated steel",Cell Hardware,WH-03 Finished Goods,15600,0.45,183981,2026-10-02
+71,NCM-PKG-1071,"Corrugated shipper, double-wall",Packaging,WH-01 Raw Materials,1155,3.14,21662,2026-10-04
+72,NCM-ANO-1072,"Natural graphite anode powder, 20 kg bag",Anode Active Material,Coating Line A,940,8.63,6743,2026-09-26
+73,NCM-HDW-1073,Insulating gasket ring,Cell Hardware,WH-03 Finished Goods,46871,0.1,371479,2026-09-14
+74,NCM-TST-1074,"Reference cell, formation QC",Test & Measurement,Coating Line A,218,21.32,1106,2026-10-28
+75,NCM-BND-1075,"NMP solvent, 200 L drum",Binder & Solvent,Coating Line A,78,14.29,355,2026-08-20
+76,NCM-ELY-1076,"Electrolyte additive, 25 L carboy",Electrolyte,WH-03 Finished Goods,97,45.48,125,2026-10-06
+77,NCM-PKG-1077,"Corrugated shipper, double-wall",Packaging,Pack & Ship,531,5.99,2531,2026-07-28
+78,NCM-CON-1078,"Nitrile glove, box of 100",Consumables,Coating Line A,195,9.0,821,2026-08-23
+79,NCM-ANO-1079,"Synthetic graphite anode powder, 20 kg bag",Anode Active Material,WH-01 Raw Materials,993,8.2,3082,2026-10-13
+80,NCM-PKG-1080,"Corrugated shipper, double-wall",Packaging,WH-02 WIP Stores,873,5.6,12125,2026-08-24
+81,NCM-BND-1081,"PVDF binder, 20 kg bag",Binder & Solvent,WH-03 Finished Goods,0,28.2,1114,2026-08-01
+82,NCM-CON-1082,"Nitrile glove, box of 100",Consumables,WH-01 Raw Materials,1237,4.2,15149,2026-09-17
+83,NCM-PKG-1083,"ESD-safe cell tray, 100-cell",Packaging,Pack & Ship,2745,3.28,44966,2026-11-01
+84,NCM-CON-1084,"Cleanroom wipe, lint-free, pack of 100",Consumables,WH-02 WIP Stores,153,3.35,4650,2026-10-30
+85,NCM-PKG-1085,"Moisture-barrier bag, 500 x 700 mm",Packaging,WH-01 Raw Materials,4173,1.85,6796,2026-11-11
+86,NCM-HDW-1086,Cell cap assembly with vent,Cell Hardware,WH-01 Raw Materials,6820,0.43,37933,2026-08-10
+87,NCM-BND-1087,"PVDF binder, 20 kg bag",Binder & Solvent,Pack & Ship,226,38.55,2777,2026-07-29
+88,NCM-SEP-1088,"PE separator film, 500 m roll",Separator,WH-03 Finished Goods,1336,0.53,6053,2026-09-07
+89,NCM-HDW-1089,"2170 cell can, nickel-plated steel",Cell Hardware,WH-03 Finished Goods,3579,0.38,41367,2026-08-20
+90,NCM-ANO-1090,"Natural graphite anode powder, 20 kg bag",Anode Active Material,Coating Line A,975,7.67,1553,2026-10-31
+91,NCM-PKG-1091,"Corrugated shipper, double-wall",Packaging,WH-01 Raw Materials,1663,3.35,25678,2026-10-24
+92,NCM-CON-1092,"Isopropyl alcohol 99%, 5 L",Consumables,WH-01 Raw Materials,369,6.29,2005,2026-10-06
+93,NCM-ANO-1093,"Natural graphite anode powder, 20 kg bag",Anode Active Material,Cell Assembly,149,9.39,5323,2026-09-01
+94,NCM-BND-1094,"PVDF binder, 20 kg bag",Binder & Solvent,WH-01 Raw Materials,254,42.47,1209,2026-10-01
+95,NCM-HDW-1095,"Nickel tab, 0.15 x 6 mm, reel",Cell Hardware,WH-01 Raw Materials,21529,0.15,186722,2026-08-06
+96,NCM-ANO-1096,"Natural graphite anode powder, 20 kg bag",Anode Active Material,WH-03 Finished Goods,860,9.12,4731,2026-10-10
+97,NCM-HDW-1097,"Nickel tab, 0.15 x 6 mm, reel",Cell Hardware,WH-02 WIP Stores,15973,0.07,252129,2026-11-05
+98,NCM-CON-1098,"Cleanroom wipe, lint-free, pack of 100",Consumables,Coating Line A,201,3.67,6533,2026-09-14
+99,NCM-CAT-1099,"NCM 622 cathode powder, 25 kg drum",Cathode Active Material,WH-02 WIP Stores,817,32.37,413,2026-08-18
+100,NCM-PKG-1100,"Moisture-barrier bag, 500 x 700 mm",Packaging,Cell Assembly,2067,1.0,54874,2026-09-11
+101,NCM-CAT-1101,"NCM 622 cathode powder, 25 kg drum",Cathode Active Material,WH-03 Finished Goods,427,21.53,6245,2026-08-10
+102,NCM-PKG-1102,"Corrugated shipper, double-wall",Packaging,Formation & Test,3710,1.55,25923,2026-08-22
+103,NCM-HDW-1103,Cell cap assembly with vent,Cell Hardware,Cell Assembly,11500,1.06,36517,2026-07-23
+104,NCM-SEP-1104,"Ceramic-coated separator film, 500 m roll",Separator,WH-02 WIP Stores,1940,0.48,19816,2026-09-12
+105,NCM-ELY-1105,"Electrolyte additive, 25 L carboy",Electrolyte,Coating Line A,169,45.18,1686,2026-09-14
+106,NCM-ELY-1106,"Electrolyte additive, 25 L carboy",Electrolyte,Cell Assembly,56,31.56,2005,2026-08-27
+107,NCM-SEP-1107,"Ceramic-coated separator film, 500 m roll",Separator,Pack & Ship,2390,0.67,12101,2026-11-10
+108,NCM-CON-1108,"Nitrile glove, box of 100",Consumables,WH-02 WIP Stores,1287,7.25,11622,2026-09-23
+109,NCM-BND-1109,"PVDF binder, 20 kg bag",Binder & Solvent,Coating Line A,296,36.03,1378,2026-07-28
+110,NCM-ELY-1110,"Electrolyte additive, 25 L carboy",Electrolyte,Pack & Ship,111,59.82,1714,2026-09-28
+111,NCM-ELY-1111,"Electrolyte additive, 25 L carboy",Electrolyte,WH-01 Raw Materials,32,41.92,1886,2026-09-02
+112,NCM-HDW-1112,"Nickel tab, 0.15 x 6 mm, reel",Cell Hardware,Coating Line A,1855,0.23,205291,2026-08-27
+113,NCM-CAT-1113,"NCM 811 cathode powder, 25 kg drum",Cathode Active Material,Formation & Test,312,18.6,2047,2026-08-30
+114,NCM-HDW-1114,"2170 cell can, nickel-plated steel",Cell Hardware,Formation & Test,3277,0.15,151627,2026-09-22
+115,NCM-HDW-1115,"Nickel tab, 0.15 x 6 mm, reel",Cell Hardware,WH-01 Raw Materials,28826,0.17,491085,2026-07-28
+116,NCM-BND-1116,"NMP solvent, 200 L drum",Binder & Solvent,WH-03 Finished Goods,267,17.67,3660,2026-08-28
+117,NCM-CAT-1117,"NCM 622 cathode powder, 25 kg drum",Cathode Active Material,Coating Line A,476,24.24,5940,2026-08-25
+118,NCM-HDW-1118,"2170 cell can, nickel-plated steel",Cell Hardware,WH-03 Finished Goods,2591,0.28,246222,2026-08-04
+119,NCM-BND-1119,"NMP solvent, 200 L drum",Binder & Solvent,Formation & Test,22,9.37,794,2026-09-11
+120,NCM-CON-1120,"HEPA filter element, 610 x 610 mm",Consumables,WH-03 Finished Goods,104,88.79,579,2026-10-13
+121,NCM-BND-1121,"NMP solvent, 200 L drum",Binder & Solvent,Coating Line A,126,16.22,2866,2026-10-10
+122,NCM-SEP-1122,"PE separator film, 500 m roll",Separator,Coating Line A,207,0.32,7273,2026-09-28
+123,NCM-PKG-1123,"Corrugated shipper, double-wall",Packaging,WH-01 Raw Materials,2663,5.39,31130,2026-08-14
+124,NCM-FOL-1124,"Copper foil 8 um, 300 mm roll",Current Collector,Coating Line A,1367,7.11,3743,2026-10-14
+125,NCM-HDW-1125,"Nickel tab, 0.15 x 6 mm, reel",Cell Hardware,Coating Line A,30627,0.23,206664,2026-08-30
+126,NCM-FOL-1126,"Copper foil 8 um, 300 mm roll",Current Collector,WH-02 WIP Stores,810,8.27,5263,2026-07-25
+127,NCM-HDW-1127,"2170 cell can, nickel-plated steel",Cell Hardware,Formation & Test,2733,0.55,72332,2026-07-30
+128,NCM-HDW-1128,"2170 cell can, nickel-plated steel",Cell Hardware,WH-02 WIP Stores,10905,0.28,249693,2026-08-10
+129,NCM-ANO-1129,"Synthetic graphite anode powder, 20 kg bag",Anode Active Material,WH-01 Raw Materials,254,12.91,10975,2026-08-15
+130,NCM-HDW-1130,Cell cap assembly with vent,Cell Hardware,WH-03 Finished Goods,3824,0.46,101396,2026-10-30
+131,NCM-ELY-1131,"Electrolyte additive, 25 L carboy",Electrolyte,Pack & Ship,193,42.02,1433,2026-09-18
+132,NCM-TST-1132,"Reference cell, formation QC",Test & Measurement,WH-02 WIP Stores,156,11.98,1389,2026-10-01
+133,NCM-HDW-1133,Insulating gasket ring,Cell Hardware,Formation & Test,44653,0.07,546349,2026-07-15
+134,NCM-BND-1134,"PVDF binder, 20 kg bag",Binder & Solvent,WH-01 Raw Materials,29,28.28,1153,2026-10-06
+135,NCM-FOL-1135,"Aluminium foil 15 um, 300 mm roll",Current Collector,WH-03 Finished Goods,52,5.81,4395,2026-10-12
+136,NCM-BND-1136,"NMP solvent, 200 L drum",Binder & Solvent,Pack & Ship,434,17.95,2486,2026-09-01
+137,NCM-PKG-1137,"ESD-safe cell tray, 100-cell",Packaging,WH-03 Finished Goods,1408,1.81,47468,2026-10-22
+138,NCM-PKG-1138,"Corrugated shipper, double-wall",Packaging,Pack & Ship,3746,1.66,17772,2026-07-21
+139,NCM-HDW-1139,Insulating gasket ring,Cell Hardware,Coating Line A,49246,0.07,278519,2026-08-08
+140,NCM-PKG-1140,"Corrugated shipper, double-wall",Packaging,Coating Line A,3602,2.43,28169,2026-07-16
+141,NCM-SEP-1141,"PE separator film, 500 m roll",Separator,Formation & Test,431,0.34,928,2026-09-22
+142,NCM-CAT-1142,"NCM 811 cathode powder, 25 kg drum",Cathode Active Material,Formation & Test,393,36.73,4109,2026-09-16
+143,NCM-SEP-1143,"PE separator film, 500 m roll",Separator,Formation & Test,1466,0.49,5046,2026-07-30
+144,NCM-PKG-1144,"Moisture-barrier bag, 500 x 700 mm",Packaging,Formation & Test,2125,0.88,83874,2026-09-13
+145,NCM-SEP-1145,"Ceramic-coated separator film, 500 m roll",Separator,Cell Assembly,1480,0.48,1804,2026-11-09
+146,NCM-ANO-1146,"Natural graphite anode powder, 20 kg bag",Anode Active Material,Coating Line A,724,7.45,5733,2026-11-01
+147,NCM-PKG-1147,"ESD-safe cell tray, 100-cell",Packaging,WH-02 WIP Stores,2521,4.02,1279,2026-09-08
+148,NCM-CON-1148,"HEPA filter element, 610 x 610 mm",Consumables,WH-02 WIP Stores,120,48.98,1033,2026-10-12
+149,NCM-TST-1149,"Reference cell, formation QC",Test & Measurement,WH-01 Raw Materials,274,13.06,2463,2026-08-15
+150,NCM-HDW-1150,Insulating gasket ring,Cell Hardware,WH-02 WIP Stores,6535,0.04,364433,2026-09-10
+151,NCM-CON-1151,"Cleanroom wipe, lint-free, pack of 100",Consumables,Coating Line A,1731,3.73,1141,2026-09-26
+152,NCM-BND-1152,"NMP solvent, 200 L drum",Binder & Solvent,WH-02 WIP Stores,426,15.65,3599,2026-08-04
+153,NCM-ANO-1153,"Natural graphite anode powder, 20 kg bag",Anode Active Material,WH-01 Raw Materials,282,6.86,1483,2026-08-22
+154,NCM-CON-1154,"Cleanroom wipe, lint-free, pack of 100",Consumables,Pack & Ship,286,2.02,21824,2026-07-23
+155,NCM-HDW-1155,Insulating gasket ring,Cell Hardware,WH-01 Raw Materials,20020,0.11,84877,2026-10-31
+156,NCM-ANO-1156,"Natural graphite anode powder, 20 kg bag",Anode Active Material,WH-01 Raw Materials,231,6.3,2749,2026-09-18
+157,NCM-FOL-1157,"Aluminium foil 15 um, 300 mm roll",Current Collector,WH-01 Raw Materials,1467,3.09,11806,2026-11-05
+158,NCM-CON-1158,"Nitrile glove, box of 100",Consumables,WH-03 Finished Goods,1265,7.05,4864,2026-10-20
+159,NCM-PKG-1159,"Corrugated shipper, double-wall",Packaging,WH-01 Raw Materials,2177,4.05,29250,2026-10-10
+160,NCM-ANO-1160,"Natural graphite anode powder, 20 kg bag",Anode Active Material,Formation & Test,929,6.07,4825,2026-11-07
+161,NCM-HDW-1161,"2170 cell can, nickel-plated steel",Cell Hardware,Formation & Test,18820,0.55,28047,2026-08-24
+162,NCM-HDW-1162,Cell cap assembly with vent,Cell Hardware,Cell Assembly,6010,0.5,192464,2026-08-21
+163,NCM-TST-1163,"Reference cell, formation QC",Test & Measurement,WH-03 Finished Goods,80,14.58,593,2026-07-28
+164,NCM-BND-1164,"NMP solvent, 200 L drum",Binder & Solvent,Formation & Test,218,15.68,2682,2026-08-25
+165,NCM-CON-1165,"Isopropyl alcohol 99%, 5 L",Consumables,Pack & Ship,278,13.23,762,2026-08-19
+166,NCM-HDW-1166,"Nickel tab, 0.15 x 6 mm, reel",Cell Hardware,Coating Line A,1126,0.2,110154,2026-09-17
+167,NCM-TST-1167,"Reference cell, formation QC",Test & Measurement,Formation & Test,244,20.43,1821,2026-08-27
+168,NCM-FOL-1168,"Aluminium foil 15 um, 300 mm roll",Current Collector,WH-01 Raw Materials,879,5.05,8385,2026-11-10
+169,NCM-HDW-1169,"Nickel tab, 0.15 x 6 mm, reel",Cell Hardware,Pack & Ship,3639,0.13,106403,2026-09-29
+170,NCM-ELY-1170,"Electrolyte additive, 25 L carboy",Electrolyte,Cell Assembly,68,41.88,1538,2026-11-09
+171,NCM-SEP-1171,"Ceramic-coated separator film, 500 m roll",Separator,Coating Line A,1177,0.88,15292,2026-10-01
+172,NCM-TST-1172,"Reference cell, formation QC",Test & Measurement,Cell Assembly,149,14.56,1343,2026-09-17
+173,NCM-SEP-1173,"PE separator film, 500 m roll",Separator,WH-01 Raw Materials,1643,0.34,9373,2026-10-14
+174,NCM-ELY-1174,"Electrolyte additive, 25 L carboy",Electrolyte,WH-02 WIP Stores,67,61.56,1941,2026-10-30
+175,NCM-FOL-1175,"Aluminium foil 15 um, 300 mm roll",Current Collector,WH-03 Finished Goods,904,3.69,1562,2026-07-21
+176,NCM-HDW-1176,"2170 cell can, nickel-plated steel",Cell Hardware,Coating Line A,16422,0.43,212221,2026-09-24
+177,NCM-CAT-1177,"NCM 622 cathode powder, 25 kg drum",Cathode Active Material,Cell Assembly,431,32.89,1534,2026-09-27
+178,NCM-PKG-1178,"Moisture-barrier bag, 500 x 700 mm",Packaging,Formation & Test,6814,1.49,34670,2026-10-29
+179,NCM-CAT-1179,"NCM 622 cathode powder, 25 kg drum",Cathode Active Material,Cell Assembly,559,17.53,7550,2026-10-14
+180,NCM-BND-1180,"PVDF binder, 20 kg bag",Binder & Solvent,Cell Assembly,267,33.7,1535,2026-10-20
+181,NCM-ANO-1181,"Natural graphite anode powder, 20 kg bag",Anode Active Material,WH-02 WIP Stores,600,8.04,7922,2026-09-08
+182,NCM-ELY-1182,"Electrolyte additive, 25 L carboy",Electrolyte,Cell Assembly,66,62.9,438,2026-11-03
+183,NCM-ELY-1183,"Electrolyte additive, 25 L carboy",Electrolyte,Pack & Ship,63,48.54,1130,2026-09-25
+184,NCM-FOL-1184,"Aluminium foil 15 um, 300 mm roll",Current Collector,Coating Line A,571,7.76,2284,2026-11-01
+185,NCM-ANO-1185,"Natural graphite anode powder, 20 kg bag",Anode Active Material,Cell Assembly,410,7.25,5168,2026-10-23
+186,NCM-CAT-1186,"NCM 811 cathode powder, 25 kg drum",Cathode Active Material,Formation & Test,828,29.16,5630,2026-07-17
+187,NCM-BND-1187,"NMP solvent, 200 L drum",Binder & Solvent,Cell Assembly,423,16.36,4946,2026-08-05
+188,NCM-CON-1188,"Nitrile glove, box of 100",Consumables,Cell Assembly,1250,5.71,16604,2026-09-05
+189,NCM-CAT-1189,"NCM 622 cathode powder, 25 kg drum",Cathode Active Material,WH-02 WIP Stores,606,30.77,5095,2026-08-26
+190,NCM-SEP-1190,"PE separator film, 500 m roll",Separator,WH-03 Finished Goods,1312,0.56,8390,2026-08-12
+191,NCM-ELY-1191,"LiPF6 electrolyte, 200 L drum",Electrolyte,Cell Assembly,354,17.96,466,2026-08-07
+192,NCM-PKG-1192,"Corrugated shipper, double-wall",Packaging,WH-01 Raw Materials,2037,5.65,16203,2026-08-25
+193,NCM-PKG-1193,"Moisture-barrier bag, 500 x 700 mm",Packaging,Pack & Ship,2562,1.82,60076,2026-11-03
+194,NCM-HDW-1194,"Nickel tab, 0.15 x 6 mm, reel",Cell Hardware,Formation & Test,22676,0.19,96845,2026-07-15
+195,NCM-PKG-1195,"Moisture-barrier bag, 500 x 700 mm",Packaging,WH-02 WIP Stores,2366,1.7,89280,2026-08-13
+196,NCM-FOL-1196,"Aluminium foil 15 um, 300 mm roll",Current Collector,WH-03 Finished Goods,1086,6.69,5509,2026-09-25
+197,NCM-ANO-1197,"Natural graphite anode powder, 20 kg bag",Anode Active Material,WH-02 WIP Stores,614,11.44,4777,2026-10-03
+198,NCM-FOL-1198,"Copper foil 8 um, 300 mm roll",Current Collector,Formation & Test,1060,6.2,6069,2026-10-11
+199,NCM-PKG-1199,"Moisture-barrier bag, 500 x 700 mm",Packaging,WH-01 Raw Materials,2579,1.36,3739,2026-08-06
+200,NCM-CON-1200,"Isopropyl alcohol 99%, 5 L",Consumables,WH-03 Finished Goods,456,11.34,1593,2026-10-22
+201,NCM-PKG-1201,"Corrugated shipper, double-wall",Packaging,Coating Line A,1194,4.54,11914,2026-07-24
+202,NCM-TST-1202,"Reference cell, formation QC",Test & Measurement,Pack & Ship,168,21.34,1778,2026-09-02
+203,NCM-ELY-1203,"Electrolyte additive, 25 L carboy",Electrolyte,WH-01 Raw Materials,22,64.16,773,2026-09-10
+204,NCM-HDW-1204,Insulating gasket ring,Cell Hardware,Coating Line A,27423,0.11,246036,2026-07-18
+205,NCM-SEP-1205,"Ceramic-coated separator film, 500 m roll",Separator,WH-03 Finished Goods,2046,0.58,17211,2026-07-31
+206,NCM-HDW-1206,"2170 cell can, nickel-plated steel",Cell Hardware,WH-01 Raw Materials,16353,0.26,86857,2026-09-24
+207,NCM-ELY-1207,"Electrolyte additive, 25 L carboy",Electrolyte,WH-02 WIP Stores,188,56.07,2155,2026-07-14
+208,NCM-ANO-1208,"Synthetic graphite anode powder, 20 kg bag",Anode Active Material,Pack & Ship,711,9.68,5293,2026-08-30
+209,NCM-ELY-1209,"Electrolyte additive, 25 L carboy",Electrolyte,Cell Assembly,98,44.35,1331,2026-10-08
+210,NCM-ELY-1210,"LiPF6 electrolyte, 200 L drum",Electrolyte,WH-03 Finished Goods,237,12.1,921,2026-11-07
+211,NCM-ANO-1211,"Natural graphite anode powder, 20 kg bag",Anode Active Material,WH-02 WIP Stores,280,10.65,1589,2026-08-30
+212,NCM-HDW-1212,"2170 cell can, nickel-plated steel",Cell Hardware,WH-03 Finished Goods,6086,0.22,52184,2026-11-08
+213,NCM-CON-1213,"HEPA filter element, 610 x 610 mm",Consumables,WH-03 Finished Goods,38,38.83,1178,2026-07-21
+214,NCM-SEP-1214,"PE separator film, 500 m roll",Separator,Cell Assembly,1185,0.57,16031,2026-09-18
+215,NCM-HDW-1215,Insulating gasket ring,Cell Hardware,Cell Assembly,8630,0.08,259862,2026-10-13
+216,NCM-CON-1216,"Cleanroom wipe, lint-free, pack of 100",Consumables,WH-01 Raw Materials,52,7.0,21829,2026-11-08
+217,NCM-ELY-1217,"Electrolyte additive, 25 L carboy",Electrolyte,Formation & Test,66,44.87,1068,2026-10-17
+218,NCM-PKG-1218,"Corrugated shipper, double-wall",Packaging,Formation & Test,1362,5.24,31669,2026-07-25
+219,NCM-FOL-1219,"Copper foil 8 um, 300 mm roll",Current Collector,Formation & Test,391,8.01,10634,2026-10-22
+220,NCM-ELY-1220,"LiPF6 electrolyte, 200 L drum",Electrolyte,Cell Assembly,237,13.25,3980,2026-10-03
+221,NCM-ELY-1221,"LiPF6 electrolyte, 200 L drum",Electrolyte,Coating Line A,214,12.01,427,2026-11-01
+222,NCM-ANO-1222,"Synthetic graphite anode powder, 20 kg bag",Anode Active Material,Coating Line A,411,13.76,7349,2026-10-01
+223,NCM-CAT-1223,"NCM 622 cathode powder, 25 kg drum",Cathode Active Material,WH-03 Finished Goods,271,26.32,6638,2026-09-17
+224,NCM-BND-1224,"PVDF binder, 20 kg bag",Binder & Solvent,Cell Assembly,144,35.11,2671,2026-09-07
+225,NCM-ELY-1225,"Electrolyte additive, 25 L carboy",Electrolyte,Formation & Test,88,37.29,560,2026-08-25
+226,NCM-ANO-1226,"Natural graphite anode powder, 20 kg bag",Anode Active Material,Cell Assembly,101,8.39,7479,2026-08-19
+227,NCM-TST-1227,"Reference cell, formation QC",Test & Measurement,WH-01 Raw Materials,62,13.5,1166,2026-10-20
+228,NCM-CON-1228,"Isopropyl alcohol 99%, 5 L",Consumables,WH-03 Finished Goods,284,7.77,1275,2026-09-15
+229,NCM-ELY-1229,"LiPF6 electrolyte, 200 L drum",Electrolyte,WH-02 WIP Stores,22,19.16,2636,2026-09-26
+230,NCM-HDW-1230,Cell cap assembly with vent,Cell Hardware,Coating Line A,8676,0.86,13694,2026-09-27
+231,NCM-ELY-1231,"LiPF6 electrolyte, 200 L drum",Electrolyte,Formation & Test,118,22.75,3459,2026-09-30
+232,NCM-PKG-1232,"Corrugated shipper, double-wall",Packaging,Cell Assembly,616,2.92,21259,2026-09-18
+233,NCM-CON-1233,"Nitrile glove, box of 100",Consumables,Coating Line A,569,5.06,418,2026-08-31
+234,NCM-PKG-1234,"Corrugated shipper, double-wall",Packaging,Cell Assembly,3376,3.61,35699,2026-08-03
+235,NCM-HDW-1235,Cell cap assembly with vent,Cell Hardware,Coating Line A,5705,0.85,46175,2026-09-16
+236,NCM-CAT-1236,"NCM 811 cathode powder, 25 kg drum",Cathode Active Material,Cell Assembly,808,22.97,1252,2026-10-30
+237,NCM-CAT-1237,"NCM 622 cathode powder, 25 kg drum",Cathode Active Material,Coating Line A,600,21.73,6925,2026-10-01
+238,NCM-CON-1238,"Isopropyl alcohol 99%, 5 L",Consumables,WH-01 Raw Materials,263,13.11,1351,2026-11-08
+239,NCM-HDW-1239,Cell cap assembly with vent,Cell Hardware,WH-01 Raw Materials,6754,1.07,27906,2026-07-18
+240,NCM-PKG-1240,"ESD-safe cell tray, 100-cell",Packaging,Pack & Ship,802,1.35,59804,2026-10-17
+241,NCM-HDW-1241,Cell cap assembly with vent,Cell Hardware,WH-03 Finished Goods,1747,1.04,117065,2026-07-23
+242,NCM-ELY-1242,"Electrolyte additive, 25 L carboy",Electrolyte,Pack & Ship,111,63.98,1137,2026-07-19
+243,NCM-CON-1243,"Cleanroom wipe, lint-free, pack of 100",Consumables,WH-01 Raw Materials,967,3.61,3253,2026-10-16
+244,NCM-HDW-1244,Insulating gasket ring,Cell Hardware,Formation & Test,33669,0.06,251115,2026-08-07
+245,NCM-CON-1245,"Cleanroom wipe, lint-free, pack of 100",Consumables,WH-03 Finished Goods,1475,3.65,8917,2026-10-10
+246,NCM-FOL-1246,"Copper foil 8 um, 300 mm roll",Current Collector,Pack & Ship,472,6.77,9427,2026-09-28
+247,NCM-CAT-1247,"NCM 622 cathode powder, 25 kg drum",Cathode Active Material,Formation & Test,498,18.49,1028,2026-09-12
+248,NCM-CON-1248,"Nitrile glove, box of 100",Consumables,Cell Assembly,1180,7.78,10303,2026-09-08
+249,NCM-TST-1249,"Reference cell, formation QC",Test & Measurement,WH-03 Finished Goods,62,17.37,1526,2026-07-14
+250,NCM-CON-1250,"Nitrile glove, box of 100",Consumables,Formation & Test,191,6.89,16661,2026-07-16
+251,NCM-CAT-1251,"NCM 622 cathode powder, 25 kg drum",Cathode Active Material,Coating Line A,328,32.9,6025,2026-10-14
+252,NCM-HDW-1252,"2170 cell can, nickel-plated steel",Cell Hardware,Coating Line A,11572,0.3,197729,2026-07-28
+253,NCM-CON-1253,"Nitrile glove, box of 100",Consumables,Pack & Ship,125,4.8,5158,2026-09-20
+254,NCM-SEP-1254,"PE separator film, 500 m roll",Separator,Pack & Ship,638,0.69,17409,2026-08-08
+255,NCM-CON-1255,"Isopropyl alcohol 99%, 5 L",Consumables,WH-01 Raw Materials,579,9.0,5288,2026-10-28
+256,NCM-HDW-1256,"Nickel tab, 0.15 x 6 mm, reel",Cell Hardware,Pack & Ship,10533,0.25,286552,2026-08-15
+257,NCM-CON-1257,"Isopropyl alcohol 99%, 5 L",Consumables,Formation & Test,94,6.95,2593,2026-07-28
+258,NCM-CAT-1258,"NCM 622 cathode powder, 25 kg drum",Cathode Active Material,Cell Assembly,647,33.36,2639,2026-11-04
+259,NCM-HDW-1259,"Nickel tab, 0.15 x 6 mm, reel",Cell Hardware,Pack & Ship,17911,0.08,348162,2026-08-28
+260,NCM-PKG-1260,"Corrugated shipper, double-wall",Packaging,WH-01 Raw Materials,631,3.58,2371,2026-07-18
+261,NCM-HDW-1261,"2170 cell can, nickel-plated steel",Cell Hardware,Coating Line A,11698,0.3,51176,2026-10-20
+262,NCM-SEP-1262,"Ceramic-coated separator film, 500 m roll",Separator,Formation & Test,601,0.94,16352,2026-10-13
+263,NCM-TST-1263,"Reference cell, formation QC",Test & Measurement,WH-03 Finished Goods,267,14.01,1615,2026-10-26
+264,NCM-HDW-1264,Cell cap assembly with vent,Cell Hardware,WH-03 Finished Goods,10707,0.95,11918,2026-09-07
+265,NCM-FOL-1265,"Copper foil 8 um, 300 mm roll",Current Collector,Coating Line A,501,8.19,13141,2026-07-24
+266,NCM-PKG-1266,"Moisture-barrier bag, 500 x 700 mm",Packaging,Pack & Ship,740,1.76,82586,2026-08-18
+267,NCM-TST-1267,"Reference cell, formation QC",Test & Measurement,Coating Line A,60,12.35,2425,2026-08-08
+268,NCM-SEP-1268,"Ceramic-coated separator film, 500 m roll",Separator,WH-03 Finished Goods,543,0.88,2700,2026-10-27
+269,NCM-ANO-1269,"Natural graphite anode powder, 20 kg bag",Anode Active Material,WH-03 Finished Goods,642,11.66,7643,2026-08-28
+270,NCM-ELY-1270,"Electrolyte additive, 25 L carboy",Electrolyte,Pack & Ship,84,61.46,1241,2026-10-16
+271,NCM-PKG-1271,"Corrugated shipper, double-wall",Packaging,Pack & Ship,1881,3.24,18691,2026-10-09
+272,NCM-ANO-1272,"Synthetic graphite anode powder, 20 kg bag",Anode Active Material,Coating Line A,813,13.46,1313,2026-08-16
+273,NCM-CON-1273,"Nitrile glove, box of 100",Consumables,WH-01 Raw Materials,166,4.79,1019,2026-07-30
+274,NCM-CON-1274,"Cleanroom wipe, lint-free, pack of 100",Consumables,Cell Assembly,798,6.68,11589,2026-07-29
+275,NCM-HDW-1275,Insulating gasket ring,Cell Hardware,Coating Line A,18412,0.03,100625,2026-10-25
+276,NCM-FOL-1276,"Aluminium foil 15 um, 300 mm roll",Current Collector,WH-03 Finished Goods,428,6.13,7799,2026-08-07
+277,NCM-CON-1277,"Nitrile glove, box of 100",Consumables,WH-01 Raw Materials,992,8.74,15609,2026-10-27
+278,NCM-BND-1278,"PVDF binder, 20 kg bag",Binder & Solvent,WH-03 Finished Goods,343,42.04,1417,2026-10-28
+279,NCM-BND-1279,"PVDF binder, 20 kg bag",Binder & Solvent,Formation & Test,90,39.49,2338,2026-10-23
+280,NCM-PKG-1280,"Corrugated shipper, double-wall",Packaging,WH-02 WIP Stores,3621,5.72,7419,2026-08-11
+281,NCM-CAT-1281,"NCM 811 cathode powder, 25 kg drum",Cathode Active Material,Pack & Ship,846,41.88,4155,2026-10-31
+282,NCM-CON-1282,"Isopropyl alcohol 99%, 5 L",Consumables,Formation & Test,585,10.74,540,2026-10-13
+283,NCM-BND-1283,"PVDF binder, 20 kg bag",Binder & Solvent,Coating Line A,247,34.19,3438,2026-09-13
+284,NCM-PKG-1284,"Moisture-barrier bag, 500 x 700 mm",Packaging,Coating Line A,6449,1.9,74355,2026-08-13
+285,NCM-HDW-1285,"2170 cell can, nickel-plated steel",Cell Hardware,WH-01 Raw Materials,4265,0.43,214776,2026-10-06
+286,NCM-PKG-1286,"Corrugated shipper, double-wall",Packaging,WH-01 Raw Materials,3727,3.17,38455,2026-08-31
+287,NCM-FOL-1287,"Aluminium foil 15 um, 300 mm roll",Current Collector,Pack & Ship,116,5.3,10470,2026-09-08
+288,NCM-FOL-1288,"Aluminium foil 15 um, 300 mm roll",Current Collector,Coating Line A,611,6.13,3261,2026-10-29
+289,NCM-PKG-1289,"Moisture-barrier bag, 500 x 700 mm",Packaging,Cell Assembly,4593,2.43,11743,2026-08-06
+290,NCM-FOL-1290,"Copper foil 8 um, 300 mm roll",Current Collector,Formation & Test,526,8.41,7694,2026-08-15
+291,NCM-CON-1291,"Nitrile glove, box of 100",Consumables,Cell Assembly,1137,6.39,6695,2026-08-06
+292,NCM-SEP-1292,"PE separator film, 500 m roll",Separator,Formation & Test,967,0.52,3076,2026-08-03
+293,NCM-HDW-1293,Insulating gasket ring,Cell Hardware,WH-02 WIP Stores,6341,0.06,490893,2026-09-19
+294,NCM-FOL-1294,"Aluminium foil 15 um, 300 mm roll",Current Collector,Formation & Test,313,5.34,2963,2026-10-01
+295,NCM-CON-1295,"HEPA filter element, 610 x 610 mm",Consumables,WH-02 WIP Stores,25,50.0,404,2026-09-28
+296,NCM-PKG-1296,"ESD-safe cell tray, 100-cell",Packaging,Formation & Test,4317,1.98,22787,2026-09-07
+297,NCM-FOL-1297,"Aluminium foil 15 um, 300 mm roll",Current Collector,Pack & Ship,961,7.34,9216,2026-08-28
+298,NCM-HDW-1298,"2170 cell can, nickel-plated steel",Cell Hardware,WH-03 Finished Goods,16732,0.51,227609,2026-09-29
+299,NCM-HDW-1299,Cell cap assembly with vent,Cell Hardware,Pack & Ship,8074,0.83,83843,2026-08-11
+300,NCM-TST-1300,"Reference cell, formation QC",Test & Measurement,Coating Line A,217,19.1,625,2026-11-03
+301,NCM-PKG-1301,"ESD-safe cell tray, 100-cell",Packaging,WH-03 Finished Goods,680,2.24,53504,2026-10-27
+302,NCM-CON-1302,"Cleanroom wipe, lint-free, pack of 100",Consumables,WH-01 Raw Materials,1277,3.72,20685,2026-07-14
+303,NCM-SEP-1303,"PE separator film, 500 m roll",Separator,Cell Assembly,598,0.32,4237,2026-08-27
+304,NCM-CAT-1304,"NCM 622 cathode powder, 25 kg drum",Cathode Active Material,WH-02 WIP Stores,42,19.03,5546,2026-08-14
+305,NCM-TST-1305,"Reference cell, formation QC",Test & Measurement,Cell Assembly,278,9.96,2291,2026-10-06
+306,NCM-HDW-1306,"2170 cell can, nickel-plated steel",Cell Hardware,Cell Assembly,19227,0.58,72671,2026-09-05
+307,NCM-TST-1307,"Reference cell, formation QC",Test & Measurement,Pack & Ship,213,18.86,692,2026-08-30
+308,NCM-PKG-1308,"Moisture-barrier bag, 500 x 700 mm",Packaging,WH-02 WIP Stores,6761,0.81,20750,2026-09-03
+309,NCM-CON-1309,"HEPA filter element, 610 x 610 mm",Consumables,Coating Line A,29,63.54,281,2026-08-15
+310,NCM-ANO-1310,"Natural graphite anode powder, 20 kg bag",Anode Active Material,Formation & Test,282,7.17,2024,2026-09-04
+311,NCM-PKG-1311,"Moisture-barrier bag, 500 x 700 mm",Packaging,WH-03 Finished Goods,4306,1.97,58518,2026-10-26
+312,NCM-BND-1312,"NMP solvent, 200 L drum",Binder & Solvent,Formation & Test,136,11.21,4632,2026-07-14
+313,NCM-TST-1313,"Reference cell, formation QC",Test & Measurement,Coating Line A,130,10.81,1213,2026-10-21
+314,NCM-SEP-1314,"PE separator film, 500 m roll",Separator,Formation & Test,526,0.66,14513,2026-09-07
+315,NCM-BND-1315,"PVDF binder, 20 kg bag",Binder & Solvent,Cell Assembly,65,25.51,1003,2026-11-09
+316,NCM-CON-1316,"Isopropyl alcohol 99%, 5 L",Consumables,Cell Assembly,254,9.19,5103,2026-10-12
+317,NCM-PKG-1317,"Corrugated shipper, double-wall",Packaging,WH-01 Raw Materials,1790,2.45,31490,2026-09-25
+318,NCM-SEP-1318,"PE separator film, 500 m roll",Separator,WH-02 WIP Stores,248,0.32,4793,2026-07-31
+319,NCM-ANO-1319,"Synthetic graphite anode powder, 20 kg bag",Anode Active Material,WH-01 Raw Materials,619,8.9,8480,2026-10-28
+320,NCM-ANO-1320,"Synthetic graphite anode powder, 20 kg bag",Anode Active Material,WH-02 WIP Stores,1075,14.14,5133,2026-10-20
+321,NCM-CAT-1321,"NCM 622 cathode powder, 25 kg drum",Cathode Active Material,WH-02 WIP Stores,178,21.04,6070,2026-09-21
+322,NCM-ELY-1322,"Electrolyte additive, 25 L carboy",Electrolyte,Pack & Ship,138,50.39,1161,2026-07-31
+323,NCM-TST-1323,"Reference cell, formation QC",Test & Measurement,WH-03 Finished Goods,242,18.31,677,2026-10-07
+324,NCM-CON-1324,"Cleanroom wipe, lint-free, pack of 100",Consumables,Cell Assembly,707,6.8,17598,2026-11-11
+325,NCM-ANO-1325,"Natural graphite anode powder, 20 kg bag",Anode Active Material,WH-03 Finished Goods,429,9.83,3427,2026-08-24
+326,NCM-SEP-1326,"PE separator film, 500 m roll",Separator,Coating Line A,1466,0.65,7952,2026-10-31
+327,NCM-BND-1327,"PVDF binder, 20 kg bag",Binder & Solvent,Formation & Test,252,44.97,3433,2026-08-09
+328,NCM-SEP-1328,"Ceramic-coated separator film, 500 m roll",Separator,Formation & Test,626,0.76,12482,2026-07-21
+329,NCM-ELY-1329,"Electrolyte additive, 25 L carboy",Electrolyte,Pack & Ship,125,31.93,1141,2026-09-18
+330,NCM-PKG-1330,"Corrugated shipper, double-wall",Packaging,Coating Line A,3381,5.75,16340,2026-07-30
+331,NCM-HDW-1331,"Nickel tab, 0.15 x 6 mm, reel",Cell Hardware,Cell Assembly,21466,0.2,434639,2026-08-15
+332,NCM-HDW-1332,Insulating gasket ring,Cell Hardware,Pack & Ship,0,0.04,469770,2026-08-07
+333,NCM-BND-1333,"NMP solvent, 200 L drum",Binder & Solvent,Formation & Test,377,13.78,693,2026-09-15
+334,NCM-BND-1334,"NMP solvent, 200 L drum",Binder & Solvent,Formation & Test,116,16.99,4219,2026-08-05
+335,NCM-HDW-1335,Insulating gasket ring,Cell Hardware,Coating Line A,7910,0.12,110071,2026-07-25
+336,NCM-ELY-1336,"Electrolyte additive, 25 L carboy",Electrolyte,WH-02 WIP Stores,42,37.41,379,2026-11-01
+337,NCM-CAT-1337,"NCM 622 cathode powder, 25 kg drum",Cathode Active Material,Coating Line A,892,16.56,531,2026-10-26
+338,NCM-HDW-1338,Insulating gasket ring,Cell Hardware,Coating Line A,38947,0.08,251506,2026-07-28
+339,NCM-HDW-1339,"Nickel tab, 0.15 x 6 mm, reel",Cell Hardware,WH-03 Finished Goods,28797,0.14,355240,2026-10-01
+340,NCM-SEP-1340,"Ceramic-coated separator film, 500 m roll",Separator,Formation & Test,1928,0.54,8959,2026-10-24
+341,NCM-CON-1341,"Nitrile glove, box of 100",Consumables,WH-01 Raw Materials,522,7.43,11767,2026-07-31
+342,NCM-SEP-1342,"PE separator film, 500 m roll",Separator,Pack & Ship,1678,0.66,2807,2026-10-07
+343,NCM-ELY-1343,"LiPF6 electrolyte, 200 L drum",Electrolyte,Formation & Test,231,20.08,2115,2026-08-30
+344,NCM-ANO-1344,"Natural graphite anode powder, 20 kg bag",Anode Active Material,Formation & Test,712,10.05,5212,2026-08-21
+345,NCM-ANO-1345,"Synthetic graphite anode powder, 20 kg bag",Anode Active Material,WH-03 Finished Goods,291,11.09,9242,2026-08-14
+346,NCM-CON-1346,"Cleanroom wipe, lint-free, pack of 100",Consumables,Pack & Ship,1114,5.8,21160,2026-09-15
+347,NCM-BND-1347,"PVDF binder, 20 kg bag",Binder & Solvent,WH-02 WIP Stores,373,34.79,3363,2026-09-09
+348,NCM-PKG-1348,"Moisture-barrier bag, 500 x 700 mm",Packaging,Coating Line A,760,1.68,60839,2026-09-14
+349,NCM-HDW-1349,Cell cap assembly with vent,Cell Hardware,Pack & Ship,7706,1.17,104572,2026-09-18
+350,NCM-SEP-1350,"PE separator film, 500 m roll",Separator,Cell Assembly,300,0.3,11950,2026-09-20
+351,NCM-PKG-1351,"Moisture-barrier bag, 500 x 700 mm",Packaging,WH-01 Raw Materials,450,1.77,87849,2026-10-24
+352,NCM-SEP-1352,"Ceramic-coated separator film, 500 m roll",Separator,Formation & Test,1534,0.58,8450,2026-08-26
+353,NCM-PKG-1353,"Corrugated shipper, double-wall",Packaging,Cell Assembly,999,5.58,37824,2026-09-12
+354,NCM-CON-1354,"Nitrile glove, box of 100",Consumables,Formation & Test,1499,5.12,13170,2026-10-08
+355,NCM-ELY-1355,"LiPF6 electrolyte, 200 L drum",Electrolyte,WH-01 Raw Materials,241,24.92,237,2026-07-15
+356,NCM-BND-1356,"NMP solvent, 200 L drum",Binder & Solvent,WH-02 WIP Stores,433,17.4,1748,2026-10-18
+357,NCM-CON-1357,"Cleanroom wipe, lint-free, pack of 100",Consumables,Cell Assembly,641,4.2,5694,2026-07-15
+358,NCM-CON-1358,"HEPA filter element, 610 x 610 mm",Consumables,WH-01 Raw Materials,97,49.8,83,2026-10-04
+359,NCM-HDW-1359,Insulating gasket ring,Cell Hardware,Cell Assembly,25770,0.08,253407,2026-09-23
+360,NCM-FOL-1360,"Aluminium foil 15 um, 300 mm roll",Current Collector,Formation & Test,529,3.64,6363,2026-10-20
+361,NCM-HDW-1361,"2170 cell can, nickel-plated steel",Cell Hardware,Coating Line A,4943,0.49,246245,2026-09-05
+362,NCM-BND-1362,"NMP solvent, 200 L drum",Binder & Solvent,WH-03 Finished Goods,152,9.58,248,2026-11-05
+363,NCM-CAT-1363,"NCM 811 cathode powder, 25 kg drum",Cathode Active Material,Coating Line A,770,21.73,4863,2026-08-30
+364,NCM-HDW-1364,"2170 cell can, nickel-plated steel",Cell Hardware,Formation & Test,1900,0.51,158556,2026-07-26
+365,NCM-HDW-1365,Insulating gasket ring,Cell Hardware,WH-01 Raw Materials,8352,0.04,486882,2026-08-24
+366,NCM-BND-1366,"PVDF binder, 20 kg bag",Binder & Solvent,WH-03 Finished Goods,383,34.85,2025,2026-10-06
+367,NCM-FOL-1367,"Aluminium foil 15 um, 300 mm roll",Current Collector,WH-02 WIP Stores,375,3.23,2004,2026-09-30
+368,NCM-CAT-1368,"NCM 811 cathode powder, 25 kg drum",Cathode Active Material,Formation & Test,418,33.46,2530,2026-08-30
+369,NCM-CON-1369,"Cleanroom wipe, lint-free, pack of 100",Consumables,Cell Assembly,1438,2.51,19092,2026-09-15
+370,NCM-SEP-1370,"PE separator film, 500 m roll",Separator,Cell Assembly,178,0.39,10735,2026-09-17
+371,NCM-SEP-1371,"Ceramic-coated separator film, 500 m roll",Separator,Coating Line A,1993,0.91,9227,2026-10-18
+372,NCM-CAT-1372,"NCM 811 cathode powder, 25 kg drum",Cathode Active Material,Formation & Test,836,40.85,4780,2026-11-10
+373,NCM-TST-1373,"Reference cell, formation QC",Test & Measurement,Cell Assembly,273,21.59,543,2026-09-06
+374,NCM-BND-1374,"PVDF binder, 20 kg bag",Binder & Solvent,Pack & Ship,178,36.87,1831,2026-10-24
+375,NCM-CAT-1375,"NCM 622 cathode powder, 25 kg drum",Cathode Active Material,WH-01 Raw Materials,668,32.83,4334,2026-09-15
+376,NCM-ELY-1376,"Electrolyte additive, 25 L carboy",Electrolyte,WH-03 Finished Goods,195,55.66,149,2026-09-28
+377,NCM-SEP-1377,"PE separator film, 500 m roll",Separator,WH-02 WIP Stores,1156,0.68,9810,2026-08-15
+378,NCM-CON-1378,"Nitrile glove, box of 100",Consumables,WH-01 Raw Materials,592,8.26,14222,2026-10-13
+379,NCM-CON-1379,"Isopropyl alcohol 99%, 5 L",Consumables,Coating Line A,169,11.54,3918,2026-07-15
+380,NCM-ANO-1380,"Synthetic graphite anode powder, 20 kg bag",Anode Active Material,WH-01 Raw Materials,761,10.38,3756,2026-11-03
+381,NCM-PKG-1381,"Corrugated shipper, double-wall",Packaging,Coating Line A,1212,3.01,1801,2026-08-01
+382,NCM-CON-1382,"Nitrile glove, box of 100",Consumables,Coating Line A,692,8.76,4825,2026-08-25
+383,NCM-ANO-1383,"Natural graphite anode powder, 20 kg bag",Anode Active Material,Cell Assembly,203,10.13,1541,2026-11-06
+384,NCM-ANO-1384,"Natural graphite anode powder, 20 kg bag",Anode Active Material,Cell Assembly,475,8.49,5059,2026-09-09
+385,NCM-CAT-1385,"NCM 811 cathode powder, 25 kg drum",Cathode Active Material,WH-01 Raw Materials,568,26.97,3227,2026-08-25
+386,NCM-HDW-1386,"2170 cell can, nickel-plated steel",Cell Hardware,Formation & Test,8184,0.51,6436,2026-09-27
+387,NCM-BND-1387,"PVDF binder, 20 kg bag",Binder & Solvent,Cell Assembly,28,35.39,2685,2026-10-01
+388,NCM-ANO-1388,"Synthetic graphite anode powder, 20 kg bag",Anode Active Material,Coating Line A,874,14.6,3908,2026-11-09
+389,NCM-PKG-1389,"Corrugated shipper, double-wall",Packaging,WH-03 Finished Goods,1211,5.04,20466,2026-08-27
+390,NCM-TST-1390,"Reference cell, formation QC",Test & Measurement,WH-02 WIP Stores,22,14.23,2403,2026-09-06
+391,NCM-FOL-1391,"Aluminium foil 15 um, 300 mm roll",Current Collector,Coating Line A,1483,3.08,1643,2026-09-18
+392,NCM-ELY-1392,"Electrolyte additive, 25 L carboy",Electrolyte,Coating Line A,101,64.23,711,2026-09-15
+393,NCM-CAT-1393,"NCM 622 cathode powder, 25 kg drum",Cathode Active Material,WH-02 WIP Stores,854,20.58,6374,2026-09-12
+394,NCM-HDW-1394,"Nickel tab, 0.15 x 6 mm, reel",Cell Hardware,WH-03 Finished Goods,38875,0.1,441637,2026-09-11
+395,NCM-HDW-1395,"2170 cell can, nickel-plated steel",Cell Hardware,Coating Line A,5950,0.53,216353,2026-09-25
+396,NCM-TST-1396,"Reference cell, formation QC",Test & Measurement,Cell Assembly,64,12.22,563,2026-11-08
+397,NCM-SEP-1397,"Ceramic-coated separator film, 500 m roll",Separator,WH-02 WIP Stores,1658,0.5,10583,2026-08-22
+398,NCM-FOL-1398,"Aluminium foil 15 um, 300 mm roll",Current Collector,Formation & Test,556,6.58,6767,2026-09-16
+399,NCM-CON-1399,"Nitrile glove, box of 100",Consumables,Coating Line A,875,5.07,1138,2026-07-26
+400,NCM-CAT-1400,"NCM 811 cathode powder, 25 kg drum",Cathode Active Material,Pack & Ship,465,20.97,8592,2026-10-14
+401,NCM-ANO-1401,"Natural graphite anode powder, 20 kg bag",Anode Active Material,Formation & Test,819,11.62,2346,2026-08-30
+402,NCM-PKG-1402,"Moisture-barrier bag, 500 x 700 mm",Packaging,WH-01 Raw Materials,7944,1.38,48355,2026-10-23
+403,NCM-HDW-1403,"Nickel tab, 0.15 x 6 mm, reel",Cell Hardware,WH-02 WIP Stores,7938,0.17,180361,2026-11-10
+404,NCM-ELY-1404,"LiPF6 electrolyte, 200 L drum",Electrolyte,Cell Assembly,35,13.41,3466,2026-10-13
+405,NCM-CAT-1405,"NCM 811 cathode powder, 25 kg drum",Cathode Active Material,Formation & Test,280,22.63,8247,2026-09-27
+406,NCM-FOL-1406,"Aluminium foil 15 um, 300 mm roll",Current Collector,Formation & Test,525,3.45,8697,2026-11-08
+407,NCM-PKG-1407,"Corrugated shipper, double-wall",Packaging,WH-01 Raw Materials,3965,5.68,2560,2026-09-11
+408,NCM-ELY-1408,"Electrolyte additive, 25 L carboy",Electrolyte,Coating Line A,157,56.77,1640,2026-08-01
+409,NCM-HDW-1409,"2170 cell can, nickel-plated steel",Cell Hardware,Coating Line A,15454,0.51,192264,2026-10-05
+410,NCM-ANO-1410,"Synthetic graphite anode powder, 20 kg bag",Anode Active Material,WH-03 Finished Goods,1095,13.39,881,2026-10-31
+411,NCM-CAT-1411,"NCM 811 cathode powder, 25 kg drum",Cathode Active Material,WH-01 Raw Materials,703,37.18,7305,2026-08-31
+412,NCM-ANO-1412,"Synthetic graphite anode powder, 20 kg bag",Anode Active Material,WH-02 WIP Stores,347,10.9,9444,2026-11-06
+413,NCM-ELY-1413,"LiPF6 electrolyte, 200 L drum",Electrolyte,WH-03 Finished Goods,169,17.53,407,2026-07-28
+414,NCM-CON-1414,"HEPA filter element, 610 x 610 mm",Consumables,WH-03 Finished Goods,54,53.03,899,2026-09-12
+415,NCM-ELY-1415,"LiPF6 electrolyte, 200 L drum",Electrolyte,Formation & Test,211,13.97,3497,2026-09-30
+416,NCM-FOL-1416,"Copper foil 8 um, 300 mm roll",Current Collector,Pack & Ship,1245,5.28,9571,2026-07-17
+417,NCM-TST-1417,"Reference cell, formation QC",Test & Measurement,WH-01 Raw Materials,253,9.99,2323,2026-09-09
+418,NCM-CON-1418,"Cleanroom wipe, lint-free, pack of 100",Consumables,Formation & Test,1189,3.32,4069,2026-07-22
+419,NCM-CAT-1419,"NCM 622 cathode powder, 25 kg drum",Cathode Active Material,Formation & Test,554,32.13,394,2026-11-03
+420,NCM-ELY-1420,"LiPF6 electrolyte, 200 L drum",Electrolyte,Coating Line A,272,13.54,1919,2026-07-21
+421,NCM-SEP-1421,"Ceramic-coated separator film, 500 m roll",Separator,Cell Assembly,830,0.72,7269,2026-08-17
+422,NCM-ANO-1422,"Natural graphite anode powder, 20 kg bag",Anode Active Material,WH-01 Raw Materials,158,12.0,6971,2026-09-17
+423,NCM-HDW-1423,Cell cap assembly with vent,Cell Hardware,WH-02 WIP Stores,14789,0.42,180060,2026-10-29
+424,NCM-CON-1424,"Isopropyl alcohol 99%, 5 L",Consumables,Formation & Test,202,8.84,4145,2026-09-18
+425,NCM-SEP-1425,"Ceramic-coated separator film, 500 m roll",Separator,Pack & Ship,2165,0.54,10023,2026-08-18
+426,NCM-FOL-1426,"Aluminium foil 15 um, 300 mm roll",Current Collector,WH-01 Raw Materials,1001,3.47,11308,2026-07-20
+427,NCM-CON-1427,"HEPA filter element, 610 x 610 mm",Consumables,Pack & Ship,20,52.61,1129,2026-09-28
+428,NCM-ELY-1428,"Electrolyte additive, 25 L carboy",Electrolyte,WH-02 WIP Stores,21,42.91,1241,2026-10-12
+429,NCM-SEP-1429,"Ceramic-coated separator film, 500 m roll",Separator,WH-01 Raw Materials,687,0.74,7199,2026-09-26
+430,NCM-HDW-1430,"Nickel tab, 0.15 x 6 mm, reel",Cell Hardware,WH-03 Finished Goods,31103,0.13,152027,2026-09-01
+431,NCM-HDW-1431,"Nickel tab, 0.15 x 6 mm, reel",Cell Hardware,Coating Line A,36483,0.21,182298,2026-11-04
+432,NCM-PKG-1432,"ESD-safe cell tray, 100-cell",Packaging,Pack & Ship,4935,2.71,2112,2026-10-31
+433,NCM-ANO-1433,"Natural graphite anode powder, 20 kg bag",Anode Active Material,WH-01 Raw Materials,767,9.05,1096,2026-08-16
+434,NCM-BND-1434,"NMP solvent, 200 L drum",Binder & Solvent,WH-03 Finished Goods,314,15.79,3036,2026-08-02
+435,NCM-CAT-1435,"NCM 811 cathode powder, 25 kg drum",Cathode Active Material,Coating Line A,518,23.19,1739,2026-07-30
+436,NCM-HDW-1436,"2170 cell can, nickel-plated steel",Cell Hardware,Coating Line A,4168,0.3,177613,2026-08-18
+437,NCM-ANO-1437,"Synthetic graphite anode powder, 20 kg bag",Anode Active Material,Pack & Ship,984,13.35,1374,2026-10-18
+438,NCM-TST-1438,"Reference cell, formation QC",Test & Measurement,Cell Assembly,216,16.55,599,2026-10-05
+439,NCM-CAT-1439,"NCM 811 cathode powder, 25 kg drum",Cathode Active Material,Coating Line A,667,19.04,8132,2026-11-11
+440,NCM-CON-1440,"Isopropyl alcohol 99%, 5 L",Consumables,Formation & Test,459,9.77,1554,2026-09-14
+441,NCM-ELY-1441,"Electrolyte additive, 25 L carboy",Electrolyte,WH-02 WIP Stores,109,45.09,715,2026-08-31
+442,NCM-TST-1442,"Reference cell, formation QC",Test & Measurement,WH-02 WIP Stores,32,13.39,87,2026-10-21
+443,NCM-ELY-1443,"LiPF6 electrolyte, 200 L drum",Electrolyte,Cell Assembly,86,21.93,3746,2026-09-12
+444,NCM-CAT-1444,"NCM 811 cathode powder, 25 kg drum",Cathode Active Material,WH-03 Finished Goods,97,27.68,6815,2026-11-02
+445,NCM-TST-1445,"Reference cell, formation QC",Test & Measurement,Formation & Test,70,10.77,402,2026-09-03
+446,NCM-HDW-1446,Insulating gasket ring,Cell Hardware,Cell Assembly,19460,0.1,191144,2026-10-26
+447,NCM-PKG-1447,"ESD-safe cell tray, 100-cell",Packaging,Cell Assembly,4355,2.42,33780,2026-09-04
+448,NCM-PKG-1448,"Moisture-barrier bag, 500 x 700 mm",Packaging,WH-03 Finished Goods,2447,2.03,2136,2026-11-03
+449,NCM-CON-1449,"Nitrile glove, box of 100",Consumables,Coating Line A,169,4.12,16035,2026-11-05
+450,NCM-SEP-1450,"PE separator film, 500 m roll",Separator,Pack & Ship,1352,0.47,5774,2026-08-07
+451,NCM-HDW-1451,"Nickel tab, 0.15 x 6 mm, reel",Cell Hardware,WH-03 Finished Goods,39575,0.08,290360,2026-08-03
+452,NCM-BND-1452,"NMP solvent, 200 L drum",Binder & Solvent,WH-03 Finished Goods,349,11.37,4172,2026-09-22
+453,NCM-HDW-1453,"Nickel tab, 0.15 x 6 mm, reel",Cell Hardware,Cell Assembly,19027,0.12,351152,2026-10-06
+454,NCM-FOL-1454,"Aluminium foil 15 um, 300 mm roll",Current Collector,Coating Line A,267,7.36,3440,2026-08-31
+455,NCM-PKG-1455,"ESD-safe cell tray, 100-cell",Packaging,WH-03 Finished Goods,4254,1.98,26766,2026-10-24
+456,NCM-TST-1456,"Reference cell, formation QC",Test & Measurement,Cell Assembly,23,18.47,338,2026-11-03
+457,NCM-PKG-1457,"Corrugated shipper, double-wall",Packaging,WH-02 WIP Stores,1501,1.55,12800,2026-08-31
+458,NCM-ELY-1458,"LiPF6 electrolyte, 200 L drum",Electrolyte,Formation & Test,92,13.61,1881,2026-09-05
+459,NCM-CON-1459,"Cleanroom wipe, lint-free, pack of 100",Consumables,WH-01 Raw Materials,1519,6.46,8882,2026-08-06
+460,NCM-HDW-1460,Insulating gasket ring,Cell Hardware,WH-02 WIP Stores,15573,0.05,325168,2026-07-22
+461,NCM-TST-1461,"Reference cell, formation QC",Test & Measurement,Pack & Ship,131,15.52,2303,2026-09-14
+462,NCM-CAT-1462,"NCM 622 cathode powder, 25 kg drum",Cathode Active Material,WH-02 WIP Stores,841,17.6,1056,2026-10-19
+463,NCM-ANO-1463,"Synthetic graphite anode powder, 20 kg bag",Anode Active Material,Cell Assembly,997,13.08,1613,2026-11-03
+464,NCM-BND-1464,"NMP solvent, 200 L drum",Binder & Solvent,Cell Assembly,384,16.45,4481,2026-08-17
+465,NCM-ELY-1465,"Electrolyte additive, 25 L carboy",Electrolyte,WH-03 Finished Goods,143,63.49,224,2026-09-01
+466,NCM-HDW-1466,"2170 cell can, nickel-plated steel",Cell Hardware,WH-01 Raw Materials,15245,0.6,127126,2026-10-23
+467,NCM-HDW-1467,"Nickel tab, 0.15 x 6 mm, reel",Cell Hardware,Formation & Test,19774,0.16,38467,2026-11-06
+468,NCM-HDW-1468,Insulating gasket ring,Cell Hardware,WH-02 WIP Stores,29674,0.09,376643,2026-08-16
+469,NCM-PKG-1469,"Corrugated shipper, double-wall",Packaging,WH-02 WIP Stores,2537,3.92,1785,2026-08-30
+470,NCM-CON-1470,"Nitrile glove, box of 100",Consumables,Pack & Ship,1032,4.45,7418,2026-09-01
+471,NCM-PKG-1471,"Moisture-barrier bag, 500 x 700 mm",Packaging,WH-03 Finished Goods,6654,1.81,86551,2026-09-01
+472,NCM-HDW-1472,"2170 cell can, nickel-plated steel",Cell Hardware,WH-02 WIP Stores,17350,0.48,95640,2026-09-10
+473,NCM-CAT-1473,"NCM 622 cathode powder, 25 kg drum",Cathode Active Material,WH-02 WIP Stores,163,19.05,1536,2026-09-27
+474,NCM-HDW-1474,"Nickel tab, 0.15 x 6 mm, reel",Cell Hardware,WH-03 Finished Goods,10159,0.07,120668,2026-10-02
+475,NCM-FOL-1475,"Copper foil 8 um, 300 mm roll",Current Collector,WH-02 WIP Stores,1170,8.01,8285,2026-10-29
+476,NCM-TST-1476,"Reference cell, formation QC",Test & Measurement,Cell Assembly,127,8.71,2419,2026-07-23
+477,NCM-HDW-1477,"Nickel tab, 0.15 x 6 mm, reel",Cell Hardware,WH-03 Finished Goods,22538,0.09,375887,2026-08-04
+478,NCM-CAT-1478,"NCM 811 cathode powder, 25 kg drum",Cathode Active Material,WH-01 Raw Materials,628,40.81,4677,2026-08-03
+479,NCM-CAT-1479,"NCM 622 cathode powder, 25 kg drum",Cathode Active Material,WH-01 Raw Materials,849,34.68,732,2026-09-08
+480,NCM-HDW-1480,Cell cap assembly with vent,Cell Hardware,WH-01 Raw Materials,6948,0.45,53807,2026-10-31
+481,NCM-CON-1481,"Nitrile glove, box of 100",Consumables,Formation & Test,253,5.13,16499,2026-09-06
+482,NCM-ANO-1482,"Natural graphite anode powder, 20 kg bag",Anode Active Material,Formation & Test,590,8.21,7035,2026-08-28
+483,NCM-ANO-1483,"Natural graphite anode powder, 20 kg bag",Anode Active Material,WH-03 Finished Goods,919,11.41,8548,2026-08-03
+484,NCM-BND-1484,"PVDF binder, 20 kg bag",Binder & Solvent,WH-01 Raw Materials,263,39.95,1914,2026-11-10
+485,NCM-BND-1485,"PVDF binder, 20 kg bag",Binder & Solvent,Cell Assembly,317,31.81,1255,2026-11-10
+486,NCM-HDW-1486,"Nickel tab, 0.15 x 6 mm, reel",Cell Hardware,Coating Line A,18043,0.12,416887,2026-10-12
+487,NCM-FOL-1487,"Copper foil 8 um, 300 mm roll",Current Collector,Coating Line A,1457,4.86,8849,2026-10-04
+488,NCM-HDW-1488,Insulating gasket ring,Cell Hardware,Cell Assembly,25465,0.08,457408,2026-07-20
+489,NCM-PKG-1489,"ESD-safe cell tray, 100-cell",Packaging,WH-03 Finished Goods,222,2.07,16067,2026-09-16
+490,NCM-PKG-1490,"Moisture-barrier bag, 500 x 700 mm",Packaging,Cell Assembly,4229,1.83,30435,2026-09-25
+491,NCM-TST-1491,"Reference cell, formation QC",Test & Measurement,Formation & Test,14,15.81,1630,2026-08-13
+492,NCM-HDW-1492,Insulating gasket ring,Cell Hardware,Cell Assembly,31376,0.09,482622,2026-07-31
+493,NCM-CON-1493,"Isopropyl alcohol 99%, 5 L",Consumables,Formation & Test,35,12.69,2227,2026-11-02
+494,NCM-CAT-1494,"NCM 811 cathode powder, 25 kg drum",Cathode Active Material,WH-01 Raw Materials,423,26.02,2159,2026-10-22
+495,NCM-FOL-1495,"Copper foil 8 um, 300 mm roll",Current Collector,WH-02 WIP Stores,1163,8.47,11055,2026-08-25
+496,NCM-ELY-1496,"Electrolyte additive, 25 L carboy",Electrolyte,WH-02 WIP Stores,184,33.11,877,2026-09-23
+497,NCM-CON-1497,"Isopropyl alcohol 99%, 5 L",Consumables,Pack & Ship,258,11.34,3206,2026-09-17
+498,NCM-CAT-1498,"NCM 811 cathode powder, 25 kg drum",Cathode Active Material,Coating Line A,164,32.74,7313,2026-10-14
+499,NCM-FOL-1499,"Aluminium foil 15 um, 300 mm roll",Current Collector,Formation & Test,1336,7.1,7675,2026-09-13
+500,NCM-ELY-1500,"LiPF6 electrolyte, 200 L drum",Electrolyte,Coating Line A,208,14.57,1818,2026-07-30
+501,NCM-CON-1501,"HEPA filter element, 610 x 610 mm",Consumables,Formation & Test,106,87.78,447,2026-10-15
+502,NCM-HDW-1502,Insulating gasket ring,Cell Hardware,Cell Assembly,21702,0.08,213828,2026-10-01
+503,NCM-SEP-1503,"PE separator film, 500 m roll",Separator,WH-03 Finished Goods,271,0.5,15150,2026-07-27
+504,NCM-HDW-1504,"Nickel tab, 0.15 x 6 mm, reel",Cell Hardware,Cell Assembly,17715,0.14,311426,2026-10-17
+505,NCM-SEP-1505,"Ceramic-coated separator film, 500 m roll",Separator,WH-01 Raw Materials,1743,0.82,19847,2026-09-03
+506,NCM-ELY-1506,"LiPF6 electrolyte, 200 L drum",Electrolyte,WH-02 WIP Stores,355,21.48,4167,2026-08-07
+507,NCM-CON-1507,"Nitrile glove, box of 100",Consumables,Coating Line A,1490,6.1,4520,2026-08-05
+508,NCM-HDW-1508,"2170 cell can, nickel-plated steel",Cell Hardware,WH-03 Finished Goods,18576,0.33,105233,2026-09-04
+509,NCM-FOL-1509,"Copper foil 8 um, 300 mm roll",Current Collector,WH-03 Finished Goods,621,5.23,3054,2026-09-13
+510,NCM-CON-1510,"HEPA filter element, 610 x 610 mm",Consumables,WH-01 Raw Materials,13,66.62,492,2026-09-16
+511,NCM-HDW-1511,"2170 cell can, nickel-plated steel",Cell Hardware,Cell Assembly,8273,0.36,80776,2026-09-02
+512,NCM-HDW-1512,Cell cap assembly with vent,Cell Hardware,WH-02 WIP Stores,13159,0.98,16926,2026-10-01
+513,NCM-CON-1513,"Nitrile glove, box of 100",Consumables,Cell Assembly,264,6.91,12107,2026-10-08
+514,NCM-SEP-1514,"PE separator film, 500 m roll",Separator,WH-02 WIP Stores,1638,0.4,9210,2026-09-11
+515,NCM-FOL-1515,"Copper foil 8 um, 300 mm roll",Current Collector,Coating Line A,1320,8.93,7247,2026-07-29
+516,NCM-CON-1516,"Cleanroom wipe, lint-free, pack of 100",Consumables,Pack & Ship,112,3.97,20624,2026-07-29
+517,NCM-HDW-1517,"Nickel tab, 0.15 x 6 mm, reel",Cell Hardware,Coating Line A,16127,0.21,284188,2026-08-18
+518,NCM-CON-1518,"HEPA filter element, 610 x 610 mm",Consumables,Formation & Test,31,44.37,688,2026-08-26
+519,NCM-SEP-1519,"PE separator film, 500 m roll",Separator,Formation & Test,659,0.36,1408,2026-07-30
+520,NCM-HDW-1520,"Nickel tab, 0.15 x 6 mm, reel",Cell Hardware,Pack & Ship,39645,0.05,217151,2026-09-05
+521,NCM-CON-1521,"Cleanroom wipe, lint-free, pack of 100",Consumables,Cell Assembly,743,4.05,9711,2026-10-22
+522,NCM-PKG-1522,"Corrugated shipper, double-wall",Packaging,Formation & Test,633,3.27,21096,2026-07-26
+523,NCM-FOL-1523,"Aluminium foil 15 um, 300 mm roll",Current Collector,Pack & Ship,444,5.3,11312,2026-10-21
+524,NCM-PKG-1524,"ESD-safe cell tray, 100-cell",Packaging,Coating Line A,2919,1.51,18807,2026-08-01
+525,NCM-PKG-1525,"Corrugated shipper, double-wall",Packaging,WH-03 Finished Goods,1506,5.02,7735,2026-10-18
+526,NCM-HDW-1526,Cell cap assembly with vent,Cell Hardware,WH-03 Finished Goods,913,0.54,10875,2026-08-16
+527,NCM-CAT-1527,"NCM 622 cathode powder, 25 kg drum",Cathode Active Material,Pack & Ship,799,31.75,7278,2026-07-29
+528,NCM-PKG-1528,"ESD-safe cell tray, 100-cell",Packaging,Pack & Ship,2673,3.35,45315,2026-07-23
+529,NCM-CON-1529,"Isopropyl alcohol 99%, 5 L",Consumables,Pack & Ship,278,11.4,474,2026-08-02
+530,NCM-ANO-1530,"Natural graphite anode powder, 20 kg bag",Anode Active Material,Formation & Test,812,11.32,1726,2026-11-06
+531,NCM-FOL-1531,"Aluminium foil 15 um, 300 mm roll",Current Collector,WH-01 Raw Materials,991,5.57,1960,2026-10-11
+532,NCM-ANO-1532,"Synthetic graphite anode powder, 20 kg bag",Anode Active Material,WH-02 WIP Stores,167,12.46,2815,2026-09-30
+533,NCM-PKG-1533,"ESD-safe cell tray, 100-cell",Packaging,Cell Assembly,3466,2.98,35125,2026-07-21
+534,NCM-CON-1534,"Nitrile glove, box of 100",Consumables,WH-01 Raw Materials,149,7.7,4341,2026-07-15
+535,NCM-HDW-1535,Insulating gasket ring,Cell Hardware,Pack & Ship,31712,0.06,325048,2026-08-21
+536,NCM-TST-1536,"Reference cell, formation QC",Test & Measurement,Coating Line A,153,8.86,1172,2026-08-31
+537,NCM-PKG-1537,"Moisture-barrier bag, 500 x 700 mm",Packaging,WH-02 WIP Stores,1633,1.08,3925,2026-11-06
+538,NCM-PKG-1538,"ESD-safe cell tray, 100-cell",Packaging,Formation & Test,295,1.29,29094,2026-09-05
+539,NCM-BND-1539,"PVDF binder, 20 kg bag",Binder & Solvent,Cell Assembly,185,46.01,2673,2026-10-08
+540,NCM-CAT-1540,"NCM 622 cathode powder, 25 kg drum",Cathode Active Material,WH-03 Finished Goods,862,35.6,7452,2026-08-14
+541,NCM-SEP-1541,"PE separator film, 500 m roll",Separator,WH-02 WIP Stores,1965,0.59,3112,2026-10-16
+542,NCM-HDW-1542,Cell cap assembly with vent,Cell Hardware,Cell Assembly,13292,0.93,73226,2026-08-26
+543,NCM-ELY-1543,"LiPF6 electrolyte, 200 L drum",Electrolyte,Pack & Ship,161,12.59,1017,2026-08-08
+544,NCM-HDW-1544,"2170 cell can, nickel-plated steel",Cell Hardware,WH-02 WIP Stores,5284,0.24,95796,2026-09-01
+545,NCM-CAT-1545,"NCM 622 cathode powder, 25 kg drum",Cathode Active Material,Coating Line A,700,22.91,5097,2026-09-26
+546,NCM-CON-1546,"Cleanroom wipe, lint-free, pack of 100",Consumables,Formation & Test,675,5.79,6384,2026-07-21
+547,NCM-HDW-1547,"2170 cell can, nickel-plated steel",Cell Hardware,Cell Assembly,15082,0.36,245098,2026-09-22
+548,NCM-ELY-1548,"Electrolyte additive, 25 L carboy",Electrolyte,Pack & Ship,29,44.52,1854,2026-10-28
+549,NCM-HDW-1549,Insulating gasket ring,Cell Hardware,Formation & Test,46605,0.02,452573,2026-08-28
+550,NCM-CAT-1550,"NCM 811 cathode powder, 25 kg drum",Cathode Active Material,Pack & Ship,254,20.84,7975,2026-10-16
+551,NCM-FOL-1551,"Copper foil 8 um, 300 mm roll",Current Collector,Formation & Test,817,4.0,2273,2026-10-23
+552,NCM-HDW-1552,Insulating gasket ring,Cell Hardware,Formation & Test,11869,0.02,300617,2026-07-21
+553,NCM-TST-1553,"Reference cell, formation QC",Test & Measurement,Pack & Ship,189,16.54,1397,2026-07-15
+554,NCM-BND-1554,"PVDF binder, 20 kg bag",Binder & Solvent,Pack & Ship,180,31.98,1615,2026-07-22
+555,NCM-TST-1555,"Reference cell, formation QC",Test & Measurement,Pack & Ship,120,17.08,804,2026-07-17
+556,NCM-PKG-1556,"ESD-safe cell tray, 100-cell",Packaging,WH-03 Finished Goods,831,2.96,9991,2026-08-22
+557,NCM-ANO-1557,"Natural graphite anode powder, 20 kg bag",Anode Active Material,WH-02 WIP Stores,289,11.13,7946,2026-11-07
+558,NCM-TST-1558,"Reference cell, formation QC",Test & Measurement,Pack & Ship,12,10.25,372,2026-08-22
+559,NCM-BND-1559,"PVDF binder, 20 kg bag",Binder & Solvent,Pack & Ship,159,40.13,1873,2026-09-01
+560,NCM-HDW-1560,Insulating gasket ring,Cell Hardware,WH-02 WIP Stores,44214,0.09,474399,2026-09-15
+561,NCM-ANO-1561,"Synthetic graphite anode powder, 20 kg bag",Anode Active Material,WH-03 Finished Goods,314,8.08,2135,2026-07-15
+562,NCM-CON-1562,"Cleanroom wipe, lint-free, pack of 100",Consumables,WH-03 Finished Goods,379,3.42,16505,2026-09-22
+563,NCM-CON-1563,"Cleanroom wipe, lint-free, pack of 100",Consumables,Coating Line A,1918,6.38,20497,2026-10-24
+564,NCM-ANO-1564,"Natural graphite anode powder, 20 kg bag",Anode Active Material,Pack & Ship,919,9.11,2089,2026-10-02
+565,NCM-CAT-1565,"NCM 811 cathode powder, 25 kg drum",Cathode Active Material,Formation & Test,253,39.94,1659,2026-08-07
+566,NCM-ANO-1566,"Synthetic graphite anode powder, 20 kg bag",Anode Active Material,WH-02 WIP Stores,676,9.8,10233,2026-09-07
+567,NCM-ELY-1567,"LiPF6 electrolyte, 200 L drum",Electrolyte,Cell Assembly,238,14.38,1298,2026-09-16
+568,NCM-ANO-1568,"Natural graphite anode powder, 20 kg bag",Anode Active Material,Cell Assembly,935,9.03,3844,2026-08-04
+569,NCM-PKG-1569,"Moisture-barrier bag, 500 x 700 mm",Packaging,Cell Assembly,5786,2.29,17346,2026-08-29
+570,NCM-ANO-1570,"Synthetic graphite anode powder, 20 kg bag",Anode Active Material,WH-02 WIP Stores,691,8.46,8328,2026-10-13
+571,NCM-BND-1571,"PVDF binder, 20 kg bag",Binder & Solvent,WH-01 Raw Materials,321,43.37,619,2026-10-05
+572,NCM-HDW-1572,Insulating gasket ring,Cell Hardware,Coating Line A,24171,0.09,88339,2026-10-17
+573,NCM-ANO-1573,"Synthetic graphite anode powder, 20 kg bag",Anode Active Material,WH-01 Raw Materials,923,12.16,5407,2026-10-13
+574,NCM-ANO-1574,"Synthetic graphite anode powder, 20 kg bag",Anode Active Material,Formation & Test,866,12.13,6108,2026-10-29
+575,NCM-CON-1575,"HEPA filter element, 610 x 610 mm",Consumables,Pack & Ship,93,73.4,653,2026-10-09
+576,NCM-CON-1576,"Isopropyl alcohol 99%, 5 L",Consumables,Cell Assembly,73,8.61,2699,2026-10-14
+577,NCM-PKG-1577,"Moisture-barrier bag, 500 x 700 mm",Packaging,WH-01 Raw Materials,3899,1.77,17402,2026-10-04
+578,NCM-ELY-1578,"LiPF6 electrolyte, 200 L drum",Electrolyte,WH-02 WIP Stores,347,19.83,2955,2026-09-27
+579,NCM-CAT-1579,"NCM 622 cathode powder, 25 kg drum",Cathode Active Material,Formation & Test,258,19.83,1454,2026-07-15
+580,NCM-BND-1580,"PVDF binder, 20 kg bag",Binder & Solvent,WH-03 Finished Goods,21,26.79,2083,2026-08-27
+581,NCM-CON-1581,"Isopropyl alcohol 99%, 5 L",Consumables,WH-01 Raw Materials,464,9.58,2426,2026-08-13
+582,NCM-HDW-1582,Cell cap assembly with vent,Cell Hardware,Formation & Test,10424,1.13,158687,2026-10-12
+583,NCM-ANO-1583,"Synthetic graphite anode powder, 20 kg bag",Anode Active Material,WH-02 WIP Stores,735,13.48,6878,2026-08-29
+584,NCM-BND-1584,"PVDF binder, 20 kg bag",Binder & Solvent,Cell Assembly,77,27.6,1840,2026-10-10
+585,NCM-HDW-1585,"2170 cell can, nickel-plated steel",Cell Hardware,Coating Line A,5267,0.55,83285,2026-09-27
+586,NCM-FOL-1586,"Copper foil 8 um, 300 mm roll",Current Collector,WH-01 Raw Materials,0,7.66,1480,2026-09-18
+587,NCM-ANO-1587,"Synthetic graphite anode powder, 20 kg bag",Anode Active Material,WH-03 Finished Goods,71,10.36,10022,2026-11-11
+588,NCM-PKG-1588,"Corrugated shipper, double-wall",Packaging,Cell Assembly,1031,2.01,9500,2026-10-12
+589,NCM-CON-1589,"Cleanroom wipe, lint-free, pack of 100",Consumables,WH-02 WIP Stores,1102,3.03,7300,2026-09-16
+590,NCM-CON-1590,"Cleanroom wipe, lint-free, pack of 100",Consumables,WH-03 Finished Goods,812,6.58,19309,2026-10-21
+591,NCM-ANO-1591,"Natural graphite anode powder, 20 kg bag",Anode Active Material,Pack & Ship,908,6.5,808,2026-10-04
+592,NCM-ANO-1592,"Natural graphite anode powder, 20 kg bag",Anode Active Material,Cell Assembly,943,7.17,8598,2026-11-05
+593,NCM-ELY-1593,"LiPF6 electrolyte, 200 L drum",Electrolyte,WH-01 Raw Materials,42,16.31,3107,2026-08-18
+594,NCM-CAT-1594,"NCM 811 cathode powder, 25 kg drum",Cathode Active Material,WH-03 Finished Goods,282,24.12,2995,2026-09-27
+595,NCM-CAT-1595,"NCM 811 cathode powder, 25 kg drum",Cathode Active Material,Pack & Ship,449,21.83,5839,2026-08-11
+596,NCM-TST-1596,"Reference cell, formation QC",Test & Measurement,Cell Assembly,199,12.65,472,2026-08-06
+597,NCM-CAT-1597,"NCM 622 cathode powder, 25 kg drum",Cathode Active Material,Cell Assembly,628,26.38,1786,2026-10-12
+598,NCM-PKG-1598,"Moisture-barrier bag, 500 x 700 mm",Packaging,WH-03 Finished Goods,1171,2.33,39558,2026-09-07
+599,NCM-HDW-1599,Insulating gasket ring,Cell Hardware,WH-02 WIP Stores,28566,0.1,43522,2026-11-07
+600,NCM-BND-1600,"PVDF binder, 20 kg bag",Binder & Solvent,Cell Assembly,197,23.66,3487,2026-10-10
