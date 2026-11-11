@@ -522,7 +522,7 @@ def report() -> None:
     lines.append("## Recommended Actions\n")
     lines.append(f"1. Escalate the {len(past_due)} past-due open dispositions "
                  "to the production-control lead this week.")
-    lines.append(f"2. Physically recount the top 10 discrepancies above before "
+    lines.append("2. Physically recount the top 10 discrepancies above before "
                  "confirming any write-off.")
     lines.append("3. Investigate the highest-variance location for a systemic "
                  "MES transaction or scanning issue (root cause, not just "
